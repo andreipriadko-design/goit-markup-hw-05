@@ -86,10 +86,10 @@ margin-bottom: 4px;
 background-color: transparent;
 outline: transparent;
 padding-left: 38px;
-font-size: 12px;
-line-height: 1.17;
-letter-spacing: 0.04em;
-color: #2e2f42;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 font-weight: 400;
 transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
